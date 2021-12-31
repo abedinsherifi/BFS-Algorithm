@@ -1,6 +1,4 @@
 # Abedin Sherifi
-# RBE 550, Assignment #3
-# 02/23/2020
 # This function generates a random maze with start position marked as “S”
 # on the top left corner and the #goal position marked as “G” at the bottom right corner.
 # Obstacles are randomly generated and account #for 30% of the space.
