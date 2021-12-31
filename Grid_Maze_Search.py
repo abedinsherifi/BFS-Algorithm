@@ -1,6 +1,4 @@
 # Abedin Sherifi
-# RBE 550, Assignment #3
-# 02/23/2020
 
 import time
 import os
@@ -45,7 +43,7 @@ class Grid():
         return
 
 # Open the .txt file that contains the specific maze and read the maze in the file.
-loc = "/home/dino/Documents/RBE550/Week3"
+loc = "/home/dino/Documents/"
 for file in os.listdir(loc):
     if file.startswith("graph500_500") and file.endswith(".txt"):
             fx = open(file)
