@@ -41,4 +41,4 @@ The solved path provided by the algorithm is provided in the image below as an a
 position is always (0,0). The path values are also plotted as shown below. <br>
 ![](images/500_500.png) <br>
 
-https://prespafree1.github.io/BFS-Algorithm/
+https://abedinsherifi.github.io/BFS-Algorithm/
